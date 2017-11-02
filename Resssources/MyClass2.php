@@ -13,4 +13,8 @@ class MyClass2
     public function myClass(){
         $nom = 'Ruben';
     }
+
+    public function GDoc(){
+
+    }
 }
